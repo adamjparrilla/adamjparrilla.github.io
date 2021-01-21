@@ -1,61 +1,26 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/afterTable.jpg
+title: Table
+permalink: projects/table
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-10-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Critical Thinking
+  - Creativity
+  - Artistic
+summary: In this project I have just a few of the Art projects that I've been recently working on.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="/images/beforeTable.jpg">
+<img class="ui medium right floated rounded image" src="/images/afterTable.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In this above photo I'm showing a project I took on during the fall semester of 2020. I decided that I wanted to repurpose an ld wooden lighthouse my grandmother had given me. So with the help of the woodworking department at the University of Hawaii at Manoa, I was able to learn many different techniques in the process of woodworking. But this is just one art project that I wanted to do in the past. More recently I have taken many other courses such as screenprinting, drawing, and now painting(see some of my work below).
 
-To give you a flavor of the game, here is an excerpt from one run:
+<img class="ui medium right floated rounded image" src="/images/ball.jpg">
+<img class="ui medium right floated rounded image" src="/images/screenprint.jpg">
+<img class="ui medium right floated rounded image" src="/images/brushespainting.jpg">
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+While these may seem unrelated to my other major in Computer Science I would have to beg to differ. Both of these classes require a sense of creativity and problem solving, not to mention the various time crunches that both can sometimes create. Making me in a much better problem solver and craftsman in everything I try to do. 
 
