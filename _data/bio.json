@@ -6,7 +6,7 @@
     "email": "ajp808@hawaii.edu",
     "phone": "808-383-7652",
     "website": "https://adamjparrilla.github.io",
-    "summary": "I am studying for a B.A. in Information & Computer Science and Art Studio at the University of Hawaii at Manoa",
+    "summary": "I am currently studying for a B.A. in Information & Computer Science and Art Studio at the University of Hawaii at Manoa",
     "location": {
       "address": "",
       "postalCode": "",
@@ -52,31 +52,30 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Eclipse",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++/gcc",
+        "Emacs",
+        "Linux"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information & Computer Science and Art Studio (expected Fall, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.51",
       "courses": [
       ]
     }
