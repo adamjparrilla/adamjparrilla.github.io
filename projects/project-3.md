@@ -13,14 +13,14 @@ labels:
 summary: In this project I have just a few of the Art projects that I've been recently working on.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/beforeTable.jpg">
-<img class="ui medium right floated rounded image" src="/images/afterTable.jpg">
 
-
-<img class="ui medium right floated rounded image" src="/images/ball.jpg">
-<img class="ui medium right floated rounded image" src="/images/screenprint.jpg">
-<img class="ui medium right floated rounded image" src="/images/brushespainting.jpg">
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/beforeTable.jpg">
+  <img class="ui image" src="../images/afterTable.jpg">
+  <img class="ui image" src="../images/ball.jpg">
+  <img class="ui image" src="../images/screenprint.jpg">
+  <img class="ui image" src="../images/brushespainting.jpg">
+</div>
 
 
 In this above photo I'm showing a project I took on during the fall semester of 2020. I decided that I wanted to repurpose an ld wooden lighthouse my grandmother had given me. So with the help of the woodworking department at the University of Hawaii at Manoa, I was able to learn many different techniques in the process of woodworking. But this is just one art project that I wanted to do in the past. More recently I have taken many other courses such as screenprinting, drawing, and now painting(see some of my work above).
