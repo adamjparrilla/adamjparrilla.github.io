@@ -24,3 +24,5 @@ I think that athletic software engineering is an interesting teaching tactic. Al
 
 Overall I'm excited to learn more this semester and after my first WOD today, it was exactly what I assumed it would be. Stressful, and a bit scary but with that, I also think it was important for me to do. Challenges will continuously come up in this course and in this career so I think its important that I learn how to prepare for questions like these that might be asked in an interview. Finally, I think learning Javascript and taking this class is going to make me a better problem solver and overall computer scientist, so I'm going to work hard no matter what challenges there may be. 
 
+
+
