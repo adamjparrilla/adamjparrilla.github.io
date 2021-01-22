@@ -20,9 +20,13 @@ summary: My group developed a top down game during out introductory course ICS 1
   <img class="ui image" src="../images/enemy.png">
 </div>
 
+## Short Explanation
+
 I worked alongside Micah Imakyure and Dylan Kaneshiro in my Introductory Computer Science class in Java to produce this game. Its a top down game that uses various basic programming concepts that we learned such as Object Oriented Programming. The purpose of this game is to stay alive as long as you can, as you are attacked by enemies. The potions served as a way to increase your health bar to continue playing. 
 
-I contributed to this project by creating the potions that would be collected when the character touched it, and also I designed the characters, enemies and potions. Although this game clearly needs work, it was an important final project for us to learn basics in programming in general. Below is a link to the demonstration video for this game. 
+## Reflection
+
+I contributed to this project by creating the potions that would be collected when the character touched it, as well as designing the characters, enemies and potions. One thing that I learned from this project was how to work in a group. Collaboration and communication were important for us, and I think that's why we were successful in the end. Although this game clearly needs work, it was an important final project for us to learn basics in programming. Below is a link to the demonstration video for this game. 
 
 
 
