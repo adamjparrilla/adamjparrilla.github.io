@@ -25,3 +25,9 @@ First when looking at the solveSudoku function it checked the puzzle input and e
 ## Experience
 
 This was a great learning experience for me as prior to this, I had barely a clue about recursive topics at all. I do think that my ability to think recursively still has a long way to go, however I think projects like these that are challenging are definitely helping me to develop. 
+
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/sudokupic1.jpg">
+  <img class="ui image" src="../images/sudokupic2.jpg">
+</div>
