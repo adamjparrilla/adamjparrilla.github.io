@@ -15,7 +15,6 @@ labels:
   <img class="ui image" src="../images/learning.jpg">
   </div>
   all image credit to: https://elearningindustry.com/how-design-thinking-transforming-learning-experience-free-ebook
-</div>
 
 ## Lifelong Learning
 
