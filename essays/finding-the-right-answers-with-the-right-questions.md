@@ -13,9 +13,8 @@ labels:
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/questions.jpg">
-  all image credit to: https://www.inc.com/jim-haudan/20-questions-to-make-meaningful-connections.html
   </div>
-</div>
+  all image credit to: https://www.inc.com/jim-haudan/20-questions-to-make-meaningful-connections.html
 
 ## How To Ask Questions The Smart Way
 
