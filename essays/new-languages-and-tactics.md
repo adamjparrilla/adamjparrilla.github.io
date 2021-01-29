@@ -13,6 +13,7 @@ labels:
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/javascriptpic.jpg">
+  all image credit to: https://www.creativebloq.com/features/is-it-okay-to-build-sites-that-rely-on-javascript
 </div>
 
 ## New JavaScript language
