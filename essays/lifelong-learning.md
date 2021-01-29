@@ -14,7 +14,7 @@ labels:
 <div class="ui small rounded images">
   <img class="ui image" src="../images/learning.jpg">
   </div>
-  all image credit to: https://elearningindustry.com/how-design-thinking-transforming-learning-experience-free-ebook
+  all image credit to: [https://elearningindustry.com/how-design-thinking-transforming-learning-experience-free-ebook](https://elearningindustry.com/how-design-thinking-transforming-learning-experience-free-ebook)
 
 ## Lifelong Learning
 
