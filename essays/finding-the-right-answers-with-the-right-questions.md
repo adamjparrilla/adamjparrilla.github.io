@@ -11,11 +11,6 @@ labels:
   - Development
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/questions.jpg">
-  </div>
-  all image credit to: [https://www.inc.com/jim-haudan/20-questions-to-make-meaningful-connections.html](https://www.inc.com/jim-haudan/20-questions-to-make-meaningful-connections.html)
-
 ## How To Ask Questions The Smart Way
 
 To get smart answers, you first need to know how to properly ask smart questions. Before reading How To Ask Questions The Smart Way by Eric Steven Raymond and Rick Moen, I didn’t know very much about the interaction in the open-source community. This article illustrated how to properly interact online so that you can effectively produce answers for yourself, others and avoid wasting time. (click [here](http://www.catb.org/esr/faqs/smart-questions.html) to visit this article)
@@ -36,6 +31,10 @@ A final example I’ve found on StackOverflow shows what you shouldn’t do when
 
 In conclusion, learning to ask questions the smart way will greatly benefit not only my programming but can easily be taken into everything you do. Don’t just blindly ask and hope for good responses, actually learn about what you’re doing and you’ll gain more knowledge because you’re putting yourself in the position to get it. 
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/questions.jpg">
+  </div>
+  all image credit to: [https://www.inc.com/jim-haudan/20-questions-to-make-meaningful-connections.html](https://www.inc.com/jim-haudan/20-questions-to-make-meaningful-connections.html)
 
 
 
