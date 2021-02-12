@@ -29,6 +29,10 @@ Another reason coming off of avoiding cluttered code is being able to maintain c
 
 Finally, a major reason to make use of coding standards is when working in a group. Its already difficult to communicate when working with others, with the various environments that people may use. But when using a standard, you’re able to create a baseline for your code to simplify understanding for everyone.
 
+## Final Thoughts
+
+In conclusion, I think that implementing coding standards can provide a huge improvement for everyone. The ability to understand and read code is so important in this field, and while it may seem to be a minor thing to follow it will most definitely make a difference in anyone’s code. Personally, I never really tried following a specific standard like ESLint, but I do believe that setting a good foundation will only better my coding skills. 
+
 <div class="ui small rounded images">
   <img class="ui image" src="../images/codingStandards.png">
   </div>
