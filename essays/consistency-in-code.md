@@ -30,9 +30,9 @@ Another reason coming off of avoiding cluttered code is being able to maintain c
 Finally, a major reason to make use of coding standards is when working in a group. Its already difficult to communicate when working with others, with the various environments that people may use. But when using a standard, you’re able to create a baseline for your code to simplify understanding for everyone.
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/questions.jpg">
+  <img class="ui image" src="../images/codingStandards.png">
   </div>
-  all image credit to: [https://www.inc.com/jim-haudan/20-questions-to-make-meaningful-connections.html](https://www.inc.com/jim-haudan/20-questions-to-make-meaningful-connections.html)
+  all image credit to: [https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)
 
 
 
