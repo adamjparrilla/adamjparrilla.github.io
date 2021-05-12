@@ -22,7 +22,7 @@ summary: The final project for ICS 314 created to connect UH students through mu
 
 For my final project for ICS 314, I was able to work with Ethan Chee, Preston Garcia, and Isaiah Eusebio. We collaborated to produce Music Match, a web application that used all of the information we learned throughout the semester in Javascript, HTML/CSS, Semantic UI, Semantic UI React, and Meteor all in one project. Here, we designed a web application that allowed users to create their own profiles, showing their goals, instruments, skill level, and music interests. You can also browse other user’s profiles and build new connections with people you’re interested in. Another feature of the site is the ability to share jams, this gives users a place to post YouTube videos of their favorite music or their jams for others to see.
 
-<img class="ui large rounded image" src="../images/browse-users.png">
+<img class="ui huge rounded image" src="../images/browse-users.png">
 
 ## My Contributions
 
@@ -38,3 +38,5 @@ To check out our source code for this website click [here](https://github.com/mu
 
 Our group’s project page can also be viewed [here](https://music-match.github.io/)
 
+<div>
+  </div>
