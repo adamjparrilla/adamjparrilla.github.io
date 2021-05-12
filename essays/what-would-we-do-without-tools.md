@@ -22,9 +22,9 @@ The development and use of tools may be what sets apart our species from others.
 
 ##  How does this relate at all to Software Engineering?
 
-Tools can be seen everywhere when developing software, such as GitHub, IntelliJ, or even DevTools just to name a few. In basically everything, the use of tools can improve how we do things. Therefore, it should be no surprise that without tools we would be hindered greatly in what we can accomplish in software engineering. As stated earlier, the right development tool can mean the difference between spending days or minutes when developing software. With that in mind, it’s clear to see why tools are such an important thing to consider when working in Software Engineering.
+<img class="ui small right floated image" src="../images/softwareEngineering.png">
 
-<img class="ui small right floated image" src="../images/softwareEngineering.jpg">
+Tools can be seen everywhere when developing software, such as GitHub, IntelliJ, or even DevTools just to name a few. In basically everything, the use of tools can improve how we do things. Therefore, it should be no surprise that without tools we would be hindered greatly in what we can accomplish in software engineering. As stated earlier, the right development tool can mean the difference between spending days or minutes when developing software. With that in mind, it’s clear to see why tools are such an important thing to consider when working in Software Engineering.
 
 ## How have Development Environments helped me?
 
