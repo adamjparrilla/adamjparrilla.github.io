@@ -23,7 +23,7 @@ This painting incorporated originally starting with purely burnt sienna color, w
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/stillLifePicture.jpg">
-  <img class="ui image" src="../images/stillLifePaintingDraft#4.jpg">
+  <img class="ui image" src="../images/stillLifePaintingDraft.jpg">
 </div>
 
 ## Other Projects
