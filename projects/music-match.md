@@ -37,6 +37,3 @@ Although this was my first time trying to fully develop a web application, it di
 To check out our source code for this website click [here](https://github.com/music-match/music-match)
 
 Our group’s project page can also be viewed [here](https://music-match.github.io/)
-
-<div>
-  </div>
