@@ -15,13 +15,23 @@ labels:
 summary: My major project for ART 223 focused around using various techniques in oil painting to create this 24"x36" still life painting.
 ---
 
-<img class="ui large rounded image" src="../images/SiennaPaintingFinal.jpg">
+<img class="ui medium rounded image" src="../images/SiennaPaintingFinal.jpg">
 
 ## Description
 
-In this above photo I'm showing a project I took on during the fall semester of 2020. I decided that I wanted to repurpose an ld wooden lighthouse my grandmother had given me. So with the help of the woodworking department at the University of Hawaii at Manoa, I was able to learn many different techniques in the process of woodworking. But this is just one art project that I wanted to do in the past. More recently I have taken many other courses such as screenprinting, drawing, and now painting(see some of my work above).
+This painting incorporated originally starting with purely burnt sienna color, which I used the wipe away method to begin to plot in the lighter forms. This gave me a good base to build off, as I incorporated layers of color using Galkyd. Galkyd is an oil painting medium that creates more transparency and an enamel-like surface, making it a great choice for reflective objects such as these. One thing that separates this project from some of the other paintings I have done is the size of this project. Being 24”x36”, this larger scale required me to work in segments and as I slowly worked in details focusing on specific objects to make sure I got them right.
 
-## Why Art?
+<img class="ui small rounded image" src="../images/stillLifePicture.jpg">
+<img class="ui small rounded image" src="../images/stillLifePaintingDraft#4.jpg">
 
-I enjoy it, problem solving and working through rough outlines to make something great is fun for me, and while these may seem unrelated to Computer Science, I think that everything that I do is related. Both of these classes require a sense of creativity and problem solving, so whether I'm learning to use new tools or software, I'm working on new ideas and ways of thinking. It can also be compared due to the time crunches, because most of my art classes work on a schedule too, I learn more about time management and project management so that I know I can finish a project on time. Overall, I definitely think that working creatively outside of class will benefit me into being a better problem solver and craftsman in everything I do. 
+## Other Projects
 
+Although I’ve been working on various art projects recently, a few of my favorites can be seen below. The first is my final project for ART 214, where we had to incorporate all of the tactics of schematic sketching, tonal changes, and anatomy to develop a fully rendered drawing using charcoal on an 18”x24” paper. Next, is an abstract acrylic painting I made meant to resemble a dartboard. I was inspired by Basquiat an American artist who rose to fame in the 1980s because of his very expressive and abstract work. His work has so much energy in it that I wanted to mirror it in this piece. Finally, during the Spring 2020 semester, I took ART 116 where I learned techniques in woodworking. This table I made originally came from a wooden lighthouse my grandmother had given me. Wanting to repurpose it and make something I could keep forever, I designed this table with the help of the woodworking department at the University of Hawaii at Manoa.
+
+<img class="ui small rounded image" src="../images/continuousToneDrawing.jpg">
+<img class="ui small rounded image" src="../images/dartBoardPaintingFinal.jpg">
+<img class="ui small rounded image" src="../images/afterTable.jpg">
+
+## Experience
+
+Overall, while it may not seem very related, working creatively with various types of mediums has not only been incredibly fun but has also taught me a lot about critical thinking. The same critical thinking and perseverance that goes into any painting or drawing are the same when it comes to web development or game design. Continuing to push yourself, growing in knowledge, working within time crunches, and finding new ways to solve problems are all things that I learn more and more about through art and computer science. So whether it’s learning new techniques in code or art, I think everything is interconnected, and will only better myself as a problem solver and craftsman in everything I do.
