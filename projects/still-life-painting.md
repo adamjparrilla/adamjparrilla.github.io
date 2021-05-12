@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/oilPainting.jpg
-title: Oil Painting
-permalink: projects/oil-painting
+title: Still Life Oil Painting
+permalink: projects/still-life-painting
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-04
 labels:
