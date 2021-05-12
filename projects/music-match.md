@@ -13,7 +13,7 @@ labels:
   - Javascript
   - HTML/CSS
   - Software Engineering
-summary: The final project for ICS 314 created to connect UH students through music! You can also post and share your favorite music!
+summary: The final project for ICS 314 created to connect UH students through music!
 ---
 
 <img class="ui huge rounded image" src="../images/music-match.png">
