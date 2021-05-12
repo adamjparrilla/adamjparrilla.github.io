@@ -16,19 +16,15 @@ labels:
 
 ## Why are tools important?
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/tools.jpg">
-  </div>
+<img class="ui small left floated image" src="../images/tools.jpg">
 
 The development and use of tools may be what sets apart our species from others. Through tools, we have been able to accomplish tasks that the human body would be unable to do alone. Having the right tool in a situation can be the difference between an impossible job and a simple one. At this point, any device or implement meant to carry out a function can be considered a tool. Whether that be physical equipment like a hammer or one of the millions of applications online tools are a part of our everyday lives and make our lives easier.
 
 ##  How does this relate at all to Software Engineering?
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/softwareEngineering.jpg">
-  </div>
-
 Tools can be seen everywhere when developing software, such as GitHub, IntelliJ, or even DevTools just to name a few. In basically everything, the use of tools can improve how we do things. Therefore, it should be no surprise that without tools we would be hindered greatly in what we can accomplish in software engineering. As stated earlier, the right development tool can mean the difference between spending days or minutes when developing software. With that in mind, it’s clear to see why tools are such an important thing to consider when working in Software Engineering.
+
+<img class="ui small right floated image" src="../images/softwareEngineering.jpg">
 
 ## How have Development Environments helped me?
 
