@@ -15,7 +15,7 @@ labels:
 summary: My major project for ART 223 focused around using various techniques in oil painting to create this 24"x36" still life painting.
 ---
 
-<img class="ui huge rounded image" src="../images/SiennaPaintingFinal.jpg">
+<img class="ui large rounded image" src="../images/SiennaPaintingFinal.jpg">
 
 ## Description
 
