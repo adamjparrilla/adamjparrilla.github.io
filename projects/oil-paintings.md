@@ -1,27 +1,21 @@
 ---
 layout: project
 type: project
-image: images/afterTable.jpg
-title: Table
-permalink: projects/table
+image: images/oilPainting.jpg
+title: Oil Paintings
+permalink: projects/oil-paintings
 # All dates must be YYYY-MM-DD format!
-date: 2020-10-01
+date: 2021-05-04
 labels:
   - Critical Thinking
   - Creativity
   - Artistic
-summary: In this project I have just a few of the Art projects that I've been recently working on.
+  - Oil Painting
+  - Woodworking
+summary: My major project for ART 223 focused around using various techniques in oil painting to create this 24"x36" still life painting.
 ---
 
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/beforeTable.jpg">
-  <img class="ui image" src="../images/afterTable.jpg">
-  <img class="ui image" src="../images/ball.jpg">
-  <img class="ui image" src="../images/screenprint.jpg">
-  <img class="ui image" src="../images/brushespainting.jpg">
-</div>
-
+<img class="ui huge rounded image" src="../images/SiennaPaintingFinal.jpg">
 
 ## Description
 
