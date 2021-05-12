@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/music-match.png
+image: images/musicMatchLanding.png
 title: Music Match
 permalink: projects/music-match
 # All dates must be YYYY-MM-DD format!
