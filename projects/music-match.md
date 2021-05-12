@@ -16,7 +16,7 @@ labels:
 summary: The final project for ICS 314 created to connect UH students through music! You can also post and share your favorite music!
 ---
 
-<img class="ui large rounded image" src="../images/music-match.png">
+<img class="ui huge rounded image" src="../images/music-match.png">
 
 ## Description
 
@@ -28,7 +28,7 @@ For my final project for ICS 314, I was able to work with Ethan Chee, Preston Ga
 
 My contributions to this project included developing the Browse Users, Admin, and Edit Jams pages front end to include the basic layout and style for those pages. This meant doing things like creating the format for the user cards and jam cards to show the style we were going for. I also created the About Us page that shows more information about our project, group members, and links to our LinkedIn and GitHub accounts. Another part that I worked on as well as developing tests using TestCafe for our Admin and Browse Users Pages, to test that they work properly. Finally, some other parts of the site I worked on included linking Jam Cards to a user’s profile, redirecting a user to the home page after creating an account, and with the help of Ethan Chee, make the featured jam on the Home page changeable by an admin user. After getting feedback from a user, one minor change I made was making the Login text in “Login to begin exploring” on the landing page a clickable link to take a user to the login page.
 
-<img class="ui large rounded image" src="../images/browse-jams.png">
+<img class="ui huge rounded image" src="../images/browse-jams.png">
 
 ## Experience
 
