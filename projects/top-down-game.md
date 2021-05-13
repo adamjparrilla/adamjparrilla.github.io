@@ -3,15 +3,16 @@ layout: project
 type: project
 image: images/ics111hero.png
 title: Top Down Game
-permalink: projects/topDownGame
+permalink: projects/top-down-game
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-01
 labels:
   - Collaboration
   - Teamwork
   - Java
+  - Artwork & Design
   - Programming
-summary: My group developed a top down game during out introductory course ICS 111.
+summary: The final project for ICS 111 where my group developed this top down style game.
 ---
 
 <img class="ui huge rounded image" src="../images/topDownSelect.jpg">
