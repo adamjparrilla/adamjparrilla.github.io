@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "drawing and painting",
+      "name": "Drawing and Painting",
       "keywords": [
       ]
     },
     {
-      "name": "game programming",
+      "name": "Game Development",
       "keywords": [
       ]
     }
@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML/CSS"
       ]
     },
     {
@@ -108,6 +109,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Summer Success Scholarship",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to sophomores that have above a minimum of 3.5 GPA and be registered for at least 3 summer credits."
+    },
     {
       "title": "CNS Native Hawaiian Scholarship",
       "date": "2020-Present",
