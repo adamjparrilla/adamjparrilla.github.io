@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sudokupic.jpg
 title: Sudoku Solver
-permalink: projects/sudokuSolver
+permalink: projects/sudoku-solver
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-01
 labels:
