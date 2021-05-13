@@ -8,15 +8,20 @@ permalink: projects/sudokuSolver
 date: 2020-03-01
 labels:
   - Java
+  - Eclipse
   - Recurisve backtracking
   - Programming
   - Learning
-summary: A program that finds the solution to a Hexadecimal Sudoku problem from course ICS 211.
+summary: This is a program for my ICS 211 course that finds the solution to a Hexadecimal Sudoku problem.
 ---
 
-## Hexadecimal Sudoku Solver
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/sudokupic1.jpg">
+</div>
 
-During my Spring semester of 2020, one homework assignment we did for ICS 211 was a Hexadecimal Recursive Sudoku Solver. Which used recursive backtracking to solve a 16x16 sudoku puzzle. We were helped by our professor Cam Moore, who set up the assignment for us and were tasked with creating solveSudoku and legalValues functions. 
+## Description
+
+During my Spring semester of 2020, one homework assignment I had to do for ICS 211 created a Hexadecimal Recursive Sudoku Solver. Implementing recursive backtracking would solve a 16x16 sudoku puzzle. We were helped by our professor Cam Moore, who set up the assignment for us and was tasked with creating solveSudoku and legalValues functions.
 
 ## Short Explanation
 
@@ -24,10 +29,8 @@ First when looking at the solveSudoku function it checked the puzzle input and e
 
 ## Experience
 
-This was a great learning experience for me as prior to this, I had barely a clue about recursive topics at all. I do think that my ability to think recursively still has a long way to go, however I think projects like these that are challenging are definitely helping me to develop. 
-
+This assignment was a great learning experience for me since before this I had barely a clue about recursive topics at all. I was able to understand what recursion is and with the help of my professor and peers learn how recursion can be implemented in scenarios such as this sudoku puzzle. While I know that my recursive skills still have a ways to go, I think that this project was a big step for me moving forward towards getting a strong understanding of more complex coding topics like recursion.
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/sudokupic1.jpg">
   <img class="ui image" src="../images/sudokupic2.jpg">
 </div>
