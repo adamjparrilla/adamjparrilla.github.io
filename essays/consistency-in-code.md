@@ -15,28 +15,25 @@ labels:
 
 ## Consistency in Code
 
-When you’re coding do you apply coding standards? If you don’t I think that you might be making it more difficult for yourself and your team. Looking back on my group schoolwork, if there is one thing that would’ve greatly improved my understanding of code, it would be using coding standards. Not only does this provide a baseline for you to follow, but it also ensures that your partner’s code in a group setting will be as simple to read as possible. 
+When you’re writing code do you apply coding standards? Well if not, you might be making it more difficult for yourself and your team. Looking back on my group schoolwork, if there is one thing that could’ve immensely improved my understanding of code, it would be implementing coding standards. Not only does this provide a baseline you can follow, but it also ensures that your partner’s code in a group setting will be as simple to read as possible.
+
+<img class="ui small left floated image" src="../images/codingStandards.png">
 
 ## Code Litter
 
-One major reason for being consistent with your code is to avoid the trouble of having clutter. This could be things such as large areas of commented out code, poorly chosen variable names, or unclearly linked code. All of these are things that are more time consuming to go back and clarify, being stuck having to re-read lines to reach an understanding, or not know what section of code is relevant to another. Pretty much coding standards allow for less time spent on translating messy code so that more time is spent elsewhere. 
+One major reason for being consistent with your code is to avoid the trouble of code clutter. This could be things like large areas of commented-out code, poorly chosen variable names, or unclearly linked code. All of these just make it more time-consuming to go back and clarify, you may be stuck having to re-read lines to reach an understanding, or not at all know what section of code is relevant to another. Pretty much, coding standards allow for less time spent on translating messy code so that more time can be spent elsewhere.
 
 ## Maintenance
 
-Another reason coming off of avoiding cluttered code is being able to maintain code easily. In class, we’ve begun using IntelliJ and ESLint, and from the limited experience I’ve had, I’m already beginning to know more about code formatting. This to me means fewer mistakes to be checked after writing my code, for things like spaces after a while (), which I think in the future will give me a good structure for writing more. 
+Another reason to use coding standards is that it simplifies maintenance. For example, in my ICS 314, we used IntelliJ and ESLint. And from my experience formatting code, implementing coding standards meant fewer mistakes to be checked after writing and faster editing in the future. So, whether it be for things like correct spacing, or confusing variable names. Coding standards are key to decreasing time spent on maintenance and clean up for yourself or your group. 
 
 ## Collaboration
 
-Finally, a major reason to make use of coding standards is when working in a group. Its already difficult to communicate when working with others, with the various environments that people may use. But when using a standard, you’re able to create a baseline for your code to simplify understanding for everyone.
+Next, coding standards can also be extremely helpful when working in a group. It can already be difficult enough communicating when working with others, and the various environments that they may use. But by setting a standard for yourself and your group members, you’re able to have that as a baseline for your code. Simplifying it so everyone is always able to understand each other. Now, when thinking about coding standards, think about all the good it can do for your group’s communication and understanding.
 
 ## Final Thoughts
 
-In conclusion, I think that implementing coding standards can provide a huge improvement for everyone. The ability to understand and read code is so important in this field, and while it may seem to be a minor thing to follow it will most definitely make a difference in anyone’s code. Personally, I never really tried following a specific standard like ESLint, but I do believe that setting a good foundation will only better my coding skills. 
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/codingStandards.png">
-  </div>
-  all image credit to: [https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)
+In conclusion, implementing coding standards just adds another helpful tool to improve your code. It can help your understanding of the code you read, clean up your work to avoid code litter, make code maintenance easier, and make group work simpler to do. Personally, before ICS 314 I never really followed a specific standard like ESLint, but I do think learning about setting coding standards will only strengthen my coding skills.
 
 
 
