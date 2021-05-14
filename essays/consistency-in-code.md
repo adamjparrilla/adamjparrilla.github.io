@@ -15,9 +15,9 @@ labels:
 
 ## Consistency in Code
 
-When you’re writing code do you apply coding standards? Well if not, you might be making it more difficult for yourself and your team. Looking back on my group schoolwork, if there is one thing that could’ve immensely improved my understanding of code, it would be implementing coding standards. Not only does this provide a baseline you can follow, but it also ensures that your partner’s code in a group setting will be as simple to read as possible.
-
 <img class="ui small right floated image" src="../images/codingStandards.png">
+
+When you’re writing code do you apply coding standards? Well if not, you might be making it more difficult for yourself and your team. Looking back on my group schoolwork, if there is one thing that could’ve immensely improved my understanding of code, it would be implementing coding standards. Not only does this provide a baseline you can follow, but it also ensures that your partner’s code in a group setting will be as simple to read as possible.
 
 ## Code Litter
 
