@@ -13,9 +13,9 @@ labels:
   - Development
 ---
 
-<img class="ui medium left floated image" src="../images/semantic.jpg">
-
 ## What is Semantic UI?
+
+<img class="ui small left floated image" src="../images/semantic.jpg">
 
 Semantic UI is a framework for CSS that uses simple phrases to trigger different functionalities. It allows for someone like me who has only basic knowledge of HTML and CSS to create websites that look professional. They have a vast variety of theming variables and components to help you build a perfect website, from things like grids to format your site, to the icons needed to add a nice visual touch. With a wide variety of layouts and intuitive design, Semantic UI allows for a simple and easy transition for any user, meaning a shorter time to create beautiful websites that are almost as simple as basic HTML sites.
 
