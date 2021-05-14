@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why do we use templates?
+title: A ruler is for making straight lines
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
 labels:
@@ -12,26 +12,26 @@ labels:
   - Learning
 ---
 
-## Why do we use templates?
+## A ruler is for making straight lines
 
-When trying to find more information on why we like to use templates in general, one major theme that continued to appear is that a structure gives more organization and a better jumping-off point for everyone. Whether this is seen in a classroom setting, where teachers and students already have a prepared lesson, a work schedule to provide goals, or even just documents enforcing a pre-determined layout. Each of these is meant to increase consistency and flexibility.
+<img class="ui small left floated image" src="../images/ruler.jpg">
 
-## How does this relate to Computer Science?
+Patterns are everywhere in life. Using models and templates to make copies and designs but why? Well, it’s because structure helps keep things together, organized and gives a jumping-off point to get started with. For instance, teachers use patterns to make a schedule, so while they may change something’s they can stay consistent with what they have to accomplish. Another example of this is a ruler, as basic as it might be, a ruler can be wooden or plastic. But they’re consistently able to make straight lines by following the pattern of a basic ruler.
 
-Now knowing this, one similar thing in Computer Science is the use of design patterns. A design pattern in general is some kind of repeatable solution to a recurring problem in software design. Not to say that a design pattern is a finished solution right away, but just like templates, it gives a point to go from so a solution can be found much easier, quicker, and with fewer issues.
+Knowing that patterns are everywhere in life, design patterns in computer science, in general, are a repeatable solution to a recurring problem in software design. While this doesn’t mean it’s a finished solution right away, just like the ruler it gives more consistency to then grow from. Making finding the right solution much easier, quicker, and with fewer issues.
 
-##  How have I personally used Design Patterns?
+## Design Patterns
 
-I have been working with various types of design patterns, for example, when initially learning Javascript in my software engineering course, we used the Prototype pattern which created a copy of a prototype object. As we moved on into using Meteor, I also used the Observer pattern, which is meant to notify a list of dependents about certain changes. A few other examples of design patterns I have been able to work with recently have been, Model-View-Controller, Front Controller, Singleton, and Factory.
+Recently I have been working with various types of design patterns. When initially learning Javascript, I used the Prototype pattern which created a copy of a prototype object. We also worked in Meteor using the Observer pattern, which was used to notify a list of dependents about certain changes. These were just a few examples of design patterns I have been able to work with recently. Some others include Model-View-Controller, Front Controller, Singleton, and Factory.
 
-## How has Design Patterns helped me?
+<img class="ui small left floated image" src="../images/design-patterns.jpg">
 
- In conclusion, learning about design patterns and the importance of having structure and consistency to follow, has improved my process of thinking about web design immensely. Now, it’s much easier creating sites knowing that with the help of design patterns, I’m able to get amazing results in a much faster and consistent way. 
+Design patterns are a template for how to solve a problem that can be used in many different situations. Knowing the basics of how to use design patterns can benefit anyone interested in software engineering. This is why I would recommend learning how to use these patterns to better your work.
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/design-patterns.jpg">
+## Final Thoughts
+
+Finally, learning about design patterns and having consistency to follow has improved my ability in web design immensely. Consistent work is important when developing anything, so I think design patterns are a great way to improve anyone’s web application. For me, it’s much easier creating sites knowing that I’m not starting from scratch, and it allows me to get better results in a much faster and consistent way. So, while a ruler is for making straight lines, you can use design patterns for improving your web designs.
+
+<div>
+  // blank
   </div>
-  all image credit to: [https://www.goodcore.co.uk/blog/coding-vs-programming/](https://www.goodcore.co.uk/blog/coding-vs-programming/)
-
-
-
