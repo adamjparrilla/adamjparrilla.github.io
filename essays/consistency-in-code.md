@@ -17,9 +17,11 @@ labels:
 
 When you’re writing code do you apply coding standards? Well if not, you might be making it more difficult for yourself and your team. Looking back on my group schoolwork, if there is one thing that could’ve immensely improved my understanding of code, it would be implementing coding standards. Not only does this provide a baseline you can follow, but it also ensures that your partner’s code in a group setting will be as simple to read as possible.
 
-<img class="ui small left floated image" src="../images/codingStandards.png">
+<img class="ui small right floated image" src="../images/codingStandards.png">
 
 ## Code Litter
+
+<img class="ui large image" src="../images/cleanCode.png">
 
 One major reason for being consistent with your code is to avoid the trouble of code clutter. This could be things like large areas of commented-out code, poorly chosen variable names, or unclearly linked code. All of these just make it more time-consuming to go back and clarify, you may be stuck having to re-read lines to reach an understanding, or not at all know what section of code is relevant to another. Pretty much, coding standards allow for less time spent on translating messy code so that more time can be spent elsewhere.
 
