@@ -21,7 +21,7 @@ When you’re writing code do you apply coding standards? Well if not, you might
 
 ## Code Litter
 
-<img class="ui large image" src="../images/cleanCode.png">
+<img class="ui medium floated image" src="../images/cleanCode.png">
 
 One major reason for being consistent with your code is to avoid the trouble of code clutter. This could be things like large areas of commented-out code, poorly chosen variable names, or unclearly linked code. All of these just make it more time-consuming to go back and clarify, you may be stuck having to re-read lines to reach an understanding, or not at all know what section of code is relevant to another. Pretty much, coding standards allow for less time spent on translating messy code so that more time can be spent elsewhere.
 
