@@ -11,9 +11,9 @@ labels:
   - Development
 ---
 
-## How To Ask Questions The Smart Way
-
 <img class="ui large image" src="../images/questions.jpg">
+
+## How To Ask Questions The Smart Way
 
 To get smart answers, you first need to know how to properly ask smart questions. Before reading How To Ask Questions The Smart Way by Eric Steven Raymond and Rick Moen, I didn’t know very much about the interaction in the open-source community. This article illustrated how to properly interact online so you can effectively produce answers for yourself and avoid wasting other’s time. (click [here](http://www.catb.org/esr/faqs/smart-questions.html) to visit this article)
 
