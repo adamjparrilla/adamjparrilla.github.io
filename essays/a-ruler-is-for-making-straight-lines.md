@@ -32,6 +32,3 @@ Design patterns are a template for how to solve a problem that can be used in ma
 
 Finally, learning about design patterns and having consistency to follow has improved my ability in web design immensely. Consistent work is important when developing anything, so I think design patterns are a great way to improve anyone’s web application. For me, it’s much easier creating sites knowing that I’m not starting from scratch, and it allows me to get better results in a much faster and consistent way. So, while a ruler is for making straight lines, you can use design patterns for improving your web designs.
 
-<div>
- 
-  </div>
