@@ -46,7 +46,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
@@ -54,10 +54,6 @@
         "Java",
         "Javascript",
         "HTML/CSS",
-        "Semantic UI",
-        "React",
-        "MeteorJS",
-        "Underscore"
       ]
     },
     {
@@ -70,6 +66,17 @@
         "g++/gcc",
         "Emacs",
         "Linux"
+      ]
+    },
+    {
+      "name": "Framework & Libraries",
+      "level": "",
+      "keywords": [
+        "Semantic UI",
+        "React",
+        "MeteorJS",
+        "Underscore",
+        "EZ Graphics"
       ]
     },
   ],
