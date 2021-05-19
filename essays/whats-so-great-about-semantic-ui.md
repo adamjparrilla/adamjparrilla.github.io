@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: What's so great about Semantic UI?
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-25
+date: 2021-02-25
 labels:
   - Semantic UI
   - HTML
