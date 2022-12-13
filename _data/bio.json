@@ -17,7 +17,8 @@
     { "name": "Software Engineering" },
     { "name": "Game Development" },
     { "name": "Character Design" },
-    { "name": "Drawing and Painting" }
+    { "name": "Drawing and Painting" },
+    { "name": "Scuplture" }
   ],
   "skills": [
     {
@@ -26,43 +27,62 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Eclipse", "g++/gcc", "Emacs", "Linux", "IntelliJ IDEA" ]
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Eclipse", "g++/gcc", "Emacs", "Linux", "IntelliJ IDEA", "Blender", "Maya" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information & Computer Science and Art Studio, Creative Computational Media (expected Fall, 2023)",
+      "studyType": "B.A. and Certificate",
+      "startDate": "2019-09-01",
       "endDate": "Present",
+      "gpa": "3.58",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "University of Hawaii at Manoa: Hamilton Library",
+      "position": "UROP Gorey Assistant - Special Projects",
+      "website": "https://manoa.hawaii.edu/library/",
+      "startDate": "2022-06-16",
+      "endDate": "2022-08-31",
+      "summary": "Research Report & Web Exhibit Project",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Learn more about writer & artist Edward Gorey",
+        "Writing skills development", 
+        "Independent and group collaborative work",
+        "Gain experience with library database",
+        "Work on UX design for web exhibit", 
+        "Create physical art exhibit"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Honolulu Museum of Art",
+      "position": "Collections Intern",
+      "website": "https://honolulumuseum.org/",
+      "startDate": "2021-09-15",
+      "endDate": "2022-08-01",
+      "summary": "Internship during the 2021-2022 school year",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Evaluating and inspecting artwork",
+        "Trained to move and handle the artwork",
+        "Gaining experience dealing with works of art"
+      ]
+    },
+    {
+      "company": "UNIQLO: Ala Moana",
+      "position": "Store Associate",
+      "website": "https://www.uniqlo.com/us/en/hawaii",
+      "startDate": "2022-05-10",
+      "endDate": "2022-07-31",
+      "summary": "Retail job",
+      "highlights": [
+        "Learn to provide customer service",
+        "Assist customers and work in a collective group",
+        "Gaining work experience while funding my future projects"
       ]
     }
   ],
