@@ -1,35 +1,32 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Adam Joseph Parrilla",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "ajp808@hawaii.edu",
+    "phone": "808-383-7652",
+    "website": "https://adamjparrilla.github.io",
+    "summary": "I am currently studying for a B.A. in Information & Computer Science and Art Studio, and a Certificate in Creative Computational Media at the University of Hawaii at Manoa",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "adamjparrilla", "url": "https://github.com/adamjparrilla" },
+      { "network": "linkedin", "username": "Adam Joseph Parrilla", "url": "https://www.linkedin.com/in/adam-joseph-parrilla" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Game Development" },
+    { "name": "Character Design" },
+    { "name": "Drawing and Painting" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "HTML", "CSS", "Semantic UI", "React", "Bootstrap React", "MeteorJS", "Underscore", "EZ Graphics", ".NET" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Eclipse", "g++/gcc", "Emacs", "Linux", "IntelliJ IDEA" ]
     }
   ],
   "education": [
