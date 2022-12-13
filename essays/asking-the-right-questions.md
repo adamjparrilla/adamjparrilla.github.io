@@ -13,7 +13,7 @@ labels:
   - StackOverflow
 ---
 
-<img class="ui large image" src="../images/questions.jpg">
+<img class="ui large image" src="../images/smart-questions/questions.jpg">
 
 ## How To Ask Questions The Smart Way
 
