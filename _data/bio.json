@@ -88,43 +88,79 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kalihi Kai Elementary School",
+      "website": "https://kalihikai.org/",
+      "position": "Computer Lab Assistant",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Volunteered during Summer School",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Worked with students to use Math programs",
+        "Helped communicate problems and solve issues",
+        "Set up applications for kids"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Ka Papa Lo'i O Kanewai",
+      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+      "position": "Volunteer",
+      "startDate": "2016-10-01",
+      "endDate": "2016-10-01",
+      "summary": "Volunteered at the Lo'i patch during high school",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Hawaiian culture",
+        "Learning about the land"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "CNS Native Hawaiian Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to Native Hawaiians that are Information & Computer Science majors that have above a minimum of 3.0 GPA."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Mari Tudor Scholarship",
+      "date": "2022",
+      "awarder": "Department of Art & Art History",
+      "summary": "Scholarship is awarded to students majoring in Art that submit two pieces of their artwork."
+    },
+    {
+      "title": "ASUH Scholarship: Academic Achievement",
+      "date": "2022",
+      "awarder": "Undergraduate Academic Affairs Committee",
+      "summary": "Scholarship is awarded to UH Manoa fulltime students with a cumulative GPA above 3.5"
+    },
+    {
+      "title": "Manoa Service Learning Award",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to students based on financial need and availability. Requires 50 hours of community service."
+    },
+    {
+      "title": "Kua'ana Tuition Waiver",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "The Kuaʻana Tuition Waiver is a financial need-based waiver for Native Hawaiian students enrolled at UH Mānoa."
+    },
+    {
+      "title": "Manoa Opportunity Grant",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to students who demonstrate financial need based on information provided on your FAFSA."
+    },
+    {
+      "title": "Summer Success Scholarship",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to sophomores that have above a minimum of 3.5 GPA and be registered for at least 3 summer credits."
+    },
+    {
+      "title": "Deans List",
+      "date": "Fall 2020, Spring 2021, Fall 2021, Spring 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Made the Dean's list for earning a GPA of above 3.5 while taking 12 or more credits."
     }
   ],
   "references": [
