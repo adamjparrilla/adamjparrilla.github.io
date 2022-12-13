@@ -25,7 +25,11 @@ One main takeaway that I got from this article, spoke on what to do before askin
 
 Another great idea that I’ve learned from How To Ask Questions The Smart Way, is how to be precise in asking a question. This starts with where you decide to post your question online. For example, you want to post it in a relevant forum so that it’s on topic. Being precise also means knowing how to describe your issue so that another person can help. For instance, describing the environment the problem occurs in is one way, the research you’ve already done, or any other possible relevant changes you’ve made are just a few ways mentioned to get the response you want. 
 
+---
+
 ## Question Examples
+
+---
 
 ### Good Question
 
