@@ -13,7 +13,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/questions.jpg">
+<img width="900px" class="rounded float-start pe-4" src="../img/smart-questions/questions.jpg">
 
 ## How To Ask Questions The Smart Way
 
