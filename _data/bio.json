@@ -2,7 +2,7 @@
   "basics": {
     "name": "Adam Joseph Parrilla",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/adamjparrilla.png",
     "email": "ajp808@hawaii.edu",
     "phone": "808-383-7652",
     "website": "https://adamjparrilla.github.io",
@@ -88,6 +88,19 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Hawaiians in Technology & Purple Maiʻa Hackathon 2022",
+      "website": "https://www.hackathon.com/event/mookauhau-molelo-hackathon-363299948927",
+      "position": "Participant",
+      "startDate": "2022-07-29",
+      "endDate": "2022-07-31",
+      "summary": "Joined to learn and help fellow Hawaiians in Technology",
+      "highlights": [
+        "Learned about the problem and developed solution software",
+        "Helped communicate ideas between one another",
+        "Culturally root Hawaiians in Computer Science"
+      ]
+    },
     {
       "organization": "Kalihi Kai Elementary School",
       "website": "https://kalihikai.org/",
