@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Development and Relationships
+title: "Development and Relationships"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-13
 published: true

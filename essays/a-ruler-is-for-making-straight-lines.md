@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Ruler is for Making Straight Lines
+title: "A Ruler is for Making Straight Lines"
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
 published: true
