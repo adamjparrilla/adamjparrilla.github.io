@@ -24,7 +24,7 @@ summary: "Summer project working for the University of Hawaii at Manoa: Hamilton
 
 Edward St. John Gorey was a writer and artist known for his pen & ink illustrations and unsettling narratives. He is a Tony award winner for his work on the 1977 production of Dracula and was able to produce a wide range of work from book covers, to short animations, and even handmade dolls. People were drawn to him for his quirky style, and those who know about him can never forget his impact on the writing and artistry of today.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/projects/gorey/BeastlyBabyPoster.jpg">
+<img width="350px" class="rounded float-start pe-4" src="../img/projects/gorey/BeastlyBabyPoster.jpg">
 
 ## Our Projects
 
