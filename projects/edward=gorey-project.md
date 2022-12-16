@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/gorey/BeastlyBabyPoster.jpg
+image: img/projects/gorey/1BeastlyBabyPoster.jpg
 title: "Edward Gorey UROP Project"
 permalink: projects/edward-gorey-project
 # All dates must be YYYY-MM-DD format!
@@ -49,6 +49,8 @@ For our website, we decided for ease of use to create it using a website builder
 ---
 
 This project was a gratifying experience for me because I not only got to work with Edward Gorey's work but also gained experience in new forms like writing and posters. Collaborating on projects is always a highlight for me when working on any project. It's very enjoyable to begin the process with an idea, then plan and execute our ideas in a way that creates an even better product than could've been done with just one person. Overall, I have enjoyed this experience and I know that the skills I've gained from this will only continue to help me further my goals and dreams.
+
+Check out my full research paper [here.](https://docs.google.com/document/d/16JQwLs-LyAGdK-VoSLmQfOumTvkH30D7GX3jiCraemg/edit?usp=sharing)
 
 
 
