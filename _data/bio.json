@@ -14,10 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Game Development" },
     { "name": "Character Design" },
     { "name": "Environment Art" },
+    { "name": "Game Development" },
+    { "name": "Software Engineering" },
     { "name": "Drawing and Painting" },
     { "name": "Scuplture" }
   ],
