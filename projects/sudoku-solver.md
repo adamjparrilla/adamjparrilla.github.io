@@ -5,7 +5,7 @@ image: img/projects/sudoku/sudokupic.jpg
 title: "Sudoku Solver"
 permalink: projects/sudoku-solver
 # All dates must be YYYY-MM-DD format!
-date: 2020
+date: 2020-03-01
 published: true
 labels:
   - Java

@@ -5,7 +5,7 @@ image: img/projects/pmi/sponsor-emblem.jpg
 title: "Phase Maintenance Inspection Software: Rotary Wing Aircraft"
 permalink: projects/phase-maintenance-inspection
 # All dates must be YYYY-MM-DD format!
-date: 2022
+date: 2022-11-05
 published: true
 labels:
   - Javascript

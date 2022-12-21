@@ -5,7 +5,7 @@ image: img/projects/music-match/musicMatchLanding.png
 title: "Music Match"
 permalink: projects/music-match
 # All dates must be YYYY-MM-DD format!
-date: 2021
+date: 2021-05-11
 published: true
 labels:
   - Semantic UI React

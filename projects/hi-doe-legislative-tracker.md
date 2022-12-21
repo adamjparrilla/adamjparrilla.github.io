@@ -5,7 +5,7 @@ image: img/projects/hidoe/doe-logo.png
 title: "HI DOE Legislative Tracker"
 permalink: projects/hi-doe-legislative-tracker
 # All dates must be YYYY-MM-DD format!
-date: 2022
+date: 2022-12-01
 published: true
 labels:
   - Javascript

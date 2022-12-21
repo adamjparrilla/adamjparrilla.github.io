@@ -5,7 +5,7 @@ image: img/projects/tdg/ics111hero.png
 title: "Top Down Game"
 permalink: projects/top-down-game
 # All dates must be YYYY-MM-DD format!
-date: 2019
+date: 2019-12-01
 published: true
 labels:
   - Collaboration

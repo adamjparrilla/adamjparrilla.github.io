@@ -5,7 +5,7 @@ image: img/projects/gorey/1BeastlyBabyPoster.jpg
 title: "Edward Gorey UROP Project"
 permalink: projects/edward-gorey-project
 # All dates must be YYYY-MM-DD format!
-date: 2022
+date: 2022-06-16
 labels:
   - Collaboration
   - Writing

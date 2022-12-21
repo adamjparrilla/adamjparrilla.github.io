@@ -5,7 +5,7 @@ image: img/projects/gca/characterSmallArt.jpg
 title: "Game Character Art"
 permalink: projects/game-character-art
 # All dates must be YYYY-MM-DD format!
-date: 2021
+date: 2021-08-01
 published: true
 labels:
   - Character Design
