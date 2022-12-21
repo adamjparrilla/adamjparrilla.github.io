@@ -70,6 +70,10 @@ Some other highlights of this project:
  - Computer desk lamp
  - Picture frames & mats
 
+<img width="1300px" class="rounded float" src="../img/projects/environment/finalRender.png">
+
+<img width="1300px" class="rounded float" src="../img/projects/environment/finalRender1.png">
+
 ## Experience
 
 ---
