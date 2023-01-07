@@ -28,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Eclipse", "g++/gcc", "Emacs", "Linux", "IntelliJ IDEA", "Blender", "Maya" ]
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Eclipse", "g++/gcc", "Emacs", "Linux", "IntelliJ IDEA", "Blender", "Maya", "Photoshop", "Procreate" ]
     }
   ],
   "education": [
