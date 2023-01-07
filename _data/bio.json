@@ -24,7 +24,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "HTML", "CSS", "Semantic UI", "React", "Bootstrap React", "MeteorJS", "Underscore", "EZ Graphics", ".NET" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "SQL", "HTML", "CSS", "Semantic UI", "React", "Bootstrap React", "MeteorJS", "Underscore", "EZ Graphics", ".NET" ]
     },
     {
       "name": "Toolsets/OS",
