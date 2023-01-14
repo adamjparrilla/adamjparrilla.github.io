@@ -5,7 +5,7 @@ image: img/projects/charModelRigPose/charProfile.png
 title: "Minion Style Character"
 permalink: projects/character-model-rig-pose
 # All dates must be YYYY-MM-DD format!
-date: 2022-12-07
+date: 2022-10-19
 published: true
 labels:
   - Character Design
