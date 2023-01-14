@@ -5,7 +5,7 @@ image: img/projects/environment/squareRender.png
 title: "Maya Environment Art"
 permalink: projects/environment-art
 # All dates must be YYYY-MM-DD format!
-date: 2022-10-19
+date: 2022-12-07
 published: true
 labels:
   - 3D Environment Art
