@@ -45,6 +45,22 @@
   ],
   "work": [
     {
+      "company": "US Army: 25th Combat Aviation Brigade Hawai'i",
+      "position": "Software Engineer Internship",
+      "website": "",
+      "startDate": "2022-08-05",
+      "endDate": "2022-11-05",
+      "summary": "Capstone project working with sponsor Major Curtis Bew to create a Scheduler interface for aircraft",
+      "highlights": [
+        "Javascript, HTML/CSS, and Bootstrap-React experience",
+        "Writing development for project posters and presentations", 
+        "Collaborative work with fellow students",
+        "Gain experience with schedulers and it as an interface",
+        "Work on UX design of scheduler", 
+        "Learn what its like professionally working with the military"
+      ]
+    },
+    {
       "company": "University of Hawaii at Manoa: Hamilton Library",
       "position": "UROP Gorey Assistant - Special Projects",
       "website": "https://manoa.hawaii.edu/library/",
