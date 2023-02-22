@@ -53,6 +53,6 @@ I have also designed some basic coins which will serve as our collectibles for t
 
 ---
 
-As I continue working on the project, me and my groupmates with continue to add enemies
+As I continue working on the project, me and my groupmates with continue to work on enemy movements, designs, and overall layout for each level just to name a few of our goals.
 
 <img width="600px" class="rounded float" src="../img/projects/lifeOfAPenny/calendarcards">
