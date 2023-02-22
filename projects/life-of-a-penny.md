@@ -5,7 +5,7 @@ image: img/lifeOfAPenny/PennyProfile.png
 title: "Life of A Penny Game Development"
 permalink: projects/life-of-a-penny
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-07
+date: 2023-01-07
 published: true
 labels:
   - Unity
