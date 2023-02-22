@@ -29,7 +29,7 @@ To begin we began brainstorming ideas individually, and met to share each of our
 
 After that I drew up a storyboard which we would use considering levels, enemies, and our overall look of the game. 
 
-<img width="50px" class="rounded float-start pe-2" src="../img/lifeOfAPenny/Storyboard.jpg">
+<img width="1300px" class="rounded float" src="../img/lifeOfAPenny/Storyboard.jpg">
 
 ## Character Movement & Design
 
