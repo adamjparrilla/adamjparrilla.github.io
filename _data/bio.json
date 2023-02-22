@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Adam Joseph Parrilla",
+    "label": "Student",
+    "picture": "https://github.com/adamjparrilla.png",
+    "email": "ajp808@hawaii.edu",
+    "phone": "808-383-7652",
+    "website": "https://adamjparrilla.github.io",
+    "summary": "I am currently studying for a B.A. in Information & Computer Science and Art Studio, and a Certificate in Creative Computational Media at the University of Hawaii at Manoa",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "adamjparrilla", "url": "https://github.com/adamjparrilla" },
+      { "network": "linkedin", "username": "Adam Joseph Parrilla", "url": "https://www.linkedin.com/in/adam-joseph-parrilla" }
+    ]
+  },
+  "interests": [
+    { "name": "Character Design" },
+    { "name": "Environment Art" },
+    { "name": "Game Development" },
+    { "name": "Software Engineering" },
+    { "name": "Drawing and Painting" },
+    { "name": "Scuplture" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "SQL", "HTML", "CSS", "Semantic UI", "React", "Bootstrap React", "MeteorJS", "Underscore", "EZ Graphics", ".NET" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Eclipse", "g++/gcc", "Emacs", "Linux", "IntelliJ IDEA", "Unity", "Blender", "Maya", "ZBrush", "Photoshop", "Procreate" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information & Computer Science and Art Studio, Creative Computational Media (expected Fall, 2023)",
+      "studyType": "B.A. and Certificate",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "gpa": "3.64",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "US Army: 25th Combat Aviation Brigade Hawai'i",
+      "position": "Software Engineer Internship",
+      "website": "",
+      "startDate": "2022-08-05",
+      "endDate": "2022-11-05",
+      "summary": "Capstone project working with sponsor Major Curtis Bew to create a Scheduler interface for aircraft",
+      "highlights": [
+        "Javascript, HTML/CSS, and Bootstrap-React experience",
+        "Writing development for project posters and presentations", 
+        "Collaborative work with fellow students",
+        "Gaining experience with schedulers and UX design",
+        "Professional experience working with the US Army"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa: Hamilton Library",
+      "position": "UROP Gorey Assistant - Special Projects",
+      "website": "https://manoa.hawaii.edu/library/",
+      "startDate": "2022-06-16",
+      "endDate": "2022-08-31",
+      "summary": "Research Report & Web Exhibit Project",
+      "highlights": [
+        "Learn more about writer & artist Edward Gorey",
+        "Writing skills development", 
+        "Independent and group collaborative work",
+        "Gain experience with library database",
+        "Work on UX design for web exhibit", 
+        "Create physical art exhibit"
+      ]
+    },
+    {
+      "company": "Honolulu Museum of Art",
+      "position": "Collections Intern",
+      "website": "https://honolulumuseum.org/",
+      "startDate": "2021-09-15",
+      "endDate": "2022-08-01",
+      "summary": "Internship during the 2021-2022 school year",
+      "highlights": [
+        "Evaluating and inspecting artwork",
+        "Trained to move and handle the artwork",
+        "Gaining experience dealing with works of art"
+      ]
+    },
+    {
+      "company": "UNIQLO: Ala Moana",
+      "position": "Store Associate",
+      "website": "https://www.uniqlo.com/us/en/hawaii",
+      "startDate": "2022-05-10",
+      "endDate": "2022-07-31",
+      "summary": "Retail job",
+      "highlights": [
+        "Learn to provide customer service",
+        "Assist customers and work in a collective group",
+        "Gaining work experience while funding my future projects"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Hawaiians in Technology & Purple Maiʻa Hackathon 2022",
+      "website": "https://www.hackathon.com/event/mookauhau-molelo-hackathon-363299948927",
+      "position": "Participant",
+      "startDate": "2022-07-29",
+      "endDate": "2022-07-31",
+      "summary": "Joined to learn and help fellow Hawaiians in Technology",
+      "highlights": [
+        "Learned about Moʻokūʻauhau and geneology through developing software",
+        "Helped communicate ideas between one another",
+        "Culturally root Hawaiians in Computer Science"
+      ]
+    },
+    {
+      "organization": "Summer Undergraduate Research Experience Symposium",
+      "website": "https://manoa.hawaii.edu/undergrad/urop/student-opportunities/sure/sure-symposium-3/",
+      "position": "Participant",
+      "startDate": "2022-07-09",
+      "endDate": "2022-07-09",
+      "summary": "Summer symposium to present our Gorey research project",
+      "highlights": [
+        "Worked on communication and presentation skills",
+        "Organized and designed a poster to present our information",
+        "Collaboration was an important key to our success"
+      ]
+    },
+    {
+      "organization": "Kalihi Kai Elementary School",
+      "website": "https://kalihikai.org/",
+      "position": "Computer Lab Assistant",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Volunteered during Summer School",
+      "highlights": [
+        "Worked with students to use Math programs",
+        "Helped communicate problems and solve issues",
+        "Set up applications for kids"
+      ]
+    },
+    {
+      "organization": "Ka Papa Lo'i O Kanewai",
+      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+      "position": "Volunteer",
+      "startDate": "2016-10-01",
+      "endDate": "2016-10-01",
+      "summary": "Volunteered at the Lo'i patch during high school",
+      "highlights": [
+        "Hawaiian culture",
+        "Learning about the land"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "CNS Native Hawaiian Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to Native Hawaiians that are Information & Computer Science majors that have above a minimum of 3.0 GPA."
+    },
+    {
+      "title": "Mari Tudor Scholarship",
+      "date": "2022",
+      "awarder": "Department of Art & Art History",
+      "summary": "Scholarship is awarded to students majoring in Art that submit two pieces of their artwork."
+    },
+    {
+      "title": "ASUH Scholarship: Academic Achievement",
+      "date": "2022",
+      "awarder": "Undergraduate Academic Affairs Committee",
+      "summary": "Scholarship is awarded to UH Manoa fulltime students with a cumulative GPA above 3.5"
+    },
+    {
+      "title": "Manoa Service Learning Award",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to students based on financial need and availability. Requires 50 hours of community service."
+    },
+    {
+      "title": "Kua'ana Tuition Waiver",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "The Kuaʻana Tuition Waiver is a financial need-based waiver for Native Hawaiian students enrolled at UH Mānoa."
+    },
+    {
+      "title": "Manoa Opportunity Grant",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to students who demonstrate financial need based on information provided on your FAFSA."
+    },
+    {
+      "title": "Summer Success Scholarship",
+      "date": "2021",
+      "awarder": "University of Hawaii Foundation",
+      "summary": "Scholarship is awarded to sophomores that have above a minimum of 3.5 GPA and be registered for at least 3 summer credits."
+    },
+    {
+      "title": "Deans List",
+      "date": "Fall 2020, Spring 2021, Fall 2021, Spring 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Made the Dean's list for earning a GPA of above 3.5 while taking 12 or more credits."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
