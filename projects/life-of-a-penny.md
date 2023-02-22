@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lifeOfAPenny/PennyMove.png
+image: img/lifeOfAPenny/PennyProfile.png
 title: "Life of A Penny Game Development"
 permalink: projects/life-of-a-penny
 # All dates must be YYYY-MM-DD format!
